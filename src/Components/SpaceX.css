@@ -1,0 +1,49 @@
+.footerText {
+  text-align: center;
+}
+
+.resCards {
+  margin: 3px;
+  padding: 12px;
+}
+
+.filterCard {
+  margin-top: 3px;
+}
+
+.resImgs {
+  background-color: #d3d3d3;
+}
+
+.firstDiv {
+  background-color: #d3d3d3;
+}
+
+.btn {
+  margin: 3px;
+  margin-right: 10px;
+  background-color: #c7de9d;
+  color: black;
+}
+
+.launch_year {
+  text-align: center;
+}
+
+.column {
+  float: left;
+  width: 25%;
+  padding: 0 10px;
+}
+
+.rowDatas {
+  margin: 0 -5px;
+}
+
+@media screen and (max-width: 600px) {
+  .column {
+    width: 100%;
+    display: block;
+    margin-bottom: 20px;
+  }
+}
