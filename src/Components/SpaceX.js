@@ -38,7 +38,7 @@ const SpaceX = (props) => {
       try {
         const result = await axios({
           method: "GET",
-          url: "https://api.spacexdata.com/v3/launches?limit=12",
+          url: "https://api.spacexdata.com/v3/launches?limit=8",
           headers: {
             accept: " application/json",
           },
