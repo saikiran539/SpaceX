@@ -26,7 +26,7 @@ const SpaceX = (props) => {
 
     return years.map((year) => {
       return (
-        <button onClick={handleSort(year)} className="btn btn-success">
+        <button key={year} onClick={handleSort(year)} className="btn btn-success">
           {year}
         </button>
       );
