@@ -27,6 +27,9 @@ Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
+Performance:Lighthouse Score
+![Lighthouse Score](https://github.com/saikiran539/SpaceX/blob/master/public/Performance_SpaceX.JPG?raw=true)
+
 ### `npm run eject`
 
 **Note: this is a one-way operation. Once you `eject`, you can’t go back!**
