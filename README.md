@@ -27,8 +27,16 @@ Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-Performance:Lighthouse Score
-![Lighthouse Score](https://github.com/saikiran539/SpaceX/blob/master/public/Performance_SpaceX.JPG?raw=true)
+### `Performance:Lighthouse Score`
+![Lighthouse Score](https://github.com/saikiran539/SpaceX/blob/master/public/Performance_SpaceX.JPG?raw=true)<br />
+
+### `Desktop View:Screenshot`
+![Desktop View](https://github.com/saikiran539/SpaceX/blob/master/public/desktopView.png?raw=true)<br />
+<br />
+
+### `Mobile View:Screenshot`
+<br />
+![Mobile View](https://github.com/saikiran539/SpaceX/blob/master/public/mobileView.png?raw=true)<br />
 
 ### `npm run eject`
 
